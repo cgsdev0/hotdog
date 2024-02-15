@@ -1,0 +1,3 @@
+```
+curl http://hotdogstand.lol/
+```
