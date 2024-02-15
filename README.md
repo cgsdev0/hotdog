@@ -1,3 +1,3 @@
 ```
-curl http://hotdogstand.lol/
+curl hotdogstand.lol
 ```
