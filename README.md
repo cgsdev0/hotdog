@@ -1,3 +1,3 @@
 ```
-curl hotdogstand.lol
+curl -L hotdogstand.lol
 ```
