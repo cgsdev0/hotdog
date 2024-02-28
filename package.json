@@ -1,0 +1,11 @@
+{
+  "name": "hotdogstand",
+  "version": "1.0.0",
+  "description": "curl -L hotdogstand.lol",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat index.html"
+  },
+  "author": "cgsdev0",
+  "license": "ISC"
+}
