@@ -1,7 +1,7 @@
 {
   "name": "hotdogstand.lol",
-  "version": "1.0.2",
-  "description": "> I installed this and it increased my productivity by 0.5%",
+  "version": "1.0.3",
+  "description": "useful for all node projects",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat index.html && exit 1"
