@@ -1,6 +1,2 @@
-```
-curl -L hotdogstand.lol
-
-# alternatively,
-npm i hotdogstand.lol
-```
+> "I installed this and it increased my productivity by 0.5%"
+> - Ryan Winchester
