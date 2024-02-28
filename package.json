@@ -1,5 +1,5 @@
 {
-  "name": "hotdogstand",
+  "name": "hotdogstand.lol",
   "version": "1.0.0",
   "description": "curl -L hotdogstand.lol",
   "main": "index.js",
